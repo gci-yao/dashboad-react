@@ -94,5 +94,7 @@ export default function Profile() {
         <Link to="/" style={{marginLeft:"10px"}}><Button  color="secondary" variant="outlined">Retour à l'acceuil</Button></Link>
         
     </>
+      
+    )
   
 }
